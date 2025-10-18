@@ -25,25 +25,16 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gautamkumar&show_icons=true&theme=transparent" alt="Gautam's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GautamThorani&show_icons=true&count_private=true&theme=transparent&cache_seconds=0" alt="Gautam's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gautamkumar&theme=transparent" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GautamThorani&theme=transparent" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautamkumar&layout=compact&theme=transparent" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GautamThorani&layout=compact&theme=transparent&cache_seconds=0" alt="Top Languages" />
 </p>
-
----
-
-### 🚀 Featured Projects
-- 🧭 [**Portfolio Website**](#) — My personal portfolio built with React + Tailwind  
-- 📝 [**Blog App**](#) — Full stack blog platform with authentication  
-- ⚡ [**Realtime Dashboard**](#) — MERN stack app with live charts
-
-
 
 ---
 
